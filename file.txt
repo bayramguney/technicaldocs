@@ -1,2 +1,2 @@
 gitgub is very interesting topic in entire devops
-ading few parameters for understanding tit merge command and pull request
+ading few parameters for understanding tit merge command and pull request...
