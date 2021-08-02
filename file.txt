@@ -6,4 +6,4 @@ finding difference
 
 understanding git fetch and pull
 
-understanding git stash now with
+understanding git stash now
