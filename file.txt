@@ -3,3 +3,5 @@ gitgub is very interesting topic in entire devops
 yes please use and follow git command flow
 
 finding difference
+
+understanding git fetch and pull
