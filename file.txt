@@ -5,3 +5,5 @@ yes please use and follow git command flow
 finding difference
 
 understanding git fetch and pull
+
+understanding git stash now
