@@ -1,2 +1,11 @@
 gitgub is very interesting topic in entire devops
-ading few parameters for understanding tit merge command and pull request
+
+
+yes please use and follow git command flow
+
+finding difference
+
+understanding git fetch and pull
+
+understanding git stash now
+
